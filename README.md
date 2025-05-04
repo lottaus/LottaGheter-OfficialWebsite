@@ -1,4 +1,4 @@
-<img src="" alt="Lottaus logo">
+<img src="Copy of Untitled_20241211_224501_0000.jpg" alt="Lottaus logo">
 # LOTTAUS Token - Be Early, Be Smart, Be LOTTAUS 🚨
 
 Welcome to the official website for **LOTTAUS Token**, the next big meme token on the blockchain! 🌐🚀
