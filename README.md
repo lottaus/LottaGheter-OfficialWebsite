@@ -56,3 +56,5 @@ If you'd like to contribute to this project, feel free to open an issue or submi
 ## License 📜
 
 This project is licensed under the Apache License, Version 2.0
+
+http://www.apache.org/licenses/LICENSE-2.0
