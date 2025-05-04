@@ -47,22 +47,6 @@ Stay updated and join the conversation on Telegram!
 
 ---
 
-## How to Run This Website Locally 🌍
-
-If you want to run this website on your own machine:
-
-1. **Clone this repository**:
-    ```bash
-    git clone https://github.com/username/lottaus-token.git
-    ```
-2. **Navigate to the project folder**:
-    ```bash
-    cd lottaus-token
-    ```
-3. **Open `index.html` in your browser** to view the website locally.
-
----
-
 ## Contributing 🤝
 
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request. We welcome all improvements, ideas, and suggestions!
