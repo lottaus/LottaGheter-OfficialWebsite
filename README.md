@@ -1,4 +1,4 @@
-<img src="Copy of Untitled_20241211_224501_0000.jpg" alt="Lottaus logo">
+o<img src="Copy of Untitled_20241211_224501_0000.jpg" alt="Lottaus logo">
 
 🚨 **LOTTAUS Token - Be Early, Be Smart, Be LOTTAUS** 🚨
 
