@@ -10,18 +10,15 @@ This website provides important details about the **LOTTAGHETER Token** launch, 
 
 ## Key Stats 📊
 
-- **Market Cap**: $18.64K
-- **Liquidity**: $31.49K
-- **Token Price**: 0.0000006204 BNB
+- **Market Cap**: $5.02K
+- **Liquidity**: $10.78K
+- **Token Price**: 0.00000000765 BNB
 - **Raised**: 38 BNB
-- **Volume**: $0.02
-- **Available Supply**: 24.9M
-- **Total Supply**: 50M
+- **Volume**: $421.18
+- **Available Supply**: 800M
 
 ## Tokenomics 💡
 
-- ✅ 30% Reserved
-- ✅ 20% Locked in LP
 - ✅ Designed for sustainability + viral growth
 
 ## Why LOTTAGHETER? 🚀
@@ -56,7 +53,7 @@ The **LOTTAGHETER (LOTTA)** token is your opportunity to dive into a growing, in
 🔥 **Why Choose LOTTA?**
 
 - **Affordable Entry**: At just 0.0000006204, it’s a great opportunity for early investors.
-- **Strong Liquidity**: With a virtual liquidity of $31.49K, LOTTA ensures secure and smooth trading.
+- **Strong Liquidity**: With a virtual liquidity of $10.78K, LOTTA ensures secure and smooth trading.
 - **Huge Potential**: A rapidly developing token with a bright future ahead!
 
 🔗 **Get in Now**: [Explore LOTTAGHETER](https://four.meme/token/0xf7ec0d107c9670826c1d8beafeb105d14e704444?code=HEMK9JC97H86)
