@@ -1,10 +1,10 @@
-o<img src="Copy of Untitled_20241211_224501_0000.jpg" alt="Lottaus logo">
+o<img src="20241211_224134_0000.png">
 
-🚨 **LOTTAUS Token - Be Early, Be Smart, Be LOTTAUS** 🚨
+🚨 **LOTTAGHETER Token - Be Early, Be Smart, Be LOTTAGHETER** 🚨
 
-Welcome to the official website for **LOTTAUS Token**, the next big meme token on the blockchain! 🌐🚀
+Welcome to the official website for **LOTTAGHETER Token**, the next big meme token on the blockchain! 🌐🚀
 
-This website provides important details about the **LOTTAUS Token** launch, including key stats, tokenomics, and how to get in early before the hype builds. 
+This website provides important details about the **LOTTAGHETER Token** launch, including key stats, tokenomics, and how to get in early before the hype builds. 
 
 ---
 
@@ -24,7 +24,7 @@ This website provides important details about the **LOTTAUS Token** launch, incl
 - ✅ 20% Locked in LP
 - ✅ Designed for sustainability + viral growth
 
-## Why LOTTAUS? 🚀
+## Why LOTTAGHETER? 🚀
 
 - **Low cap, high potential**
 - **Fresh on the radar**
@@ -33,7 +33,7 @@ This website provides important details about the **LOTTAUS Token** launch, incl
 
 ---
 
-## Buy LOTTAUS 🛒
+## Buy LOTTAGHETER 🛒
 
 Get in before the hype hits! Secure your position early and ride the $LOTTAUS wave 🚀
 
@@ -45,13 +45,13 @@ Get in before the hype hits! Secure your position early and ride the $LOTTAUS wa
 
 Stay updated and join the conversation on Telegram! 
 
-- **Telegram**: [Join LOTTAUS Telegram](https://t.me/lottaustoken)
+- **Telegram**: [Join LOTTAGHETER Telegram](https://t.me/lottaustoken)
 
 ---
 
-## About LOTTAUS 💥
+## About LOTTAGHETER 💥
 
-The **LOTTAUS (LOTTA)** token is your opportunity to dive into a growing, innovative crypto project! With a strong market cap, impressive liquidity, and a promising future, now is the perfect time to get involved.
+The **LOTTAGHETER (LOTTA)** token is your opportunity to dive into a growing, innovative crypto project! With a strong market cap, impressive liquidity, and a promising future, now is the perfect time to get involved.
 
 🔥 **Why Choose LOTTA?**
 
@@ -59,11 +59,11 @@ The **LOTTAUS (LOTTA)** token is your opportunity to dive into a growing, innova
 - **Strong Liquidity**: With a virtual liquidity of $31.49K, LOTTA ensures secure and smooth trading.
 - **Huge Potential**: A rapidly developing token with a bright future ahead!
 
-🔗 **Get in Now**: [Explore LOTTAUS](https://four.meme/token/0xed37f9211fb98a514ed1b7272760d8cede180f28?code=HEMK9JC97H86)
+🔗 **Get in Now**: [Explore LOTTAGHETER](https://four.meme/token/0xed37f9211fb98a514ed1b7272760d8cede180f28?code=HEMK9JC97H86)
 
-Join the **LOTTAUS** community today and take part in the next wave of crypto innovation! 🌍
+Join the **LOTTAGHETER** community today and take part in the next wave of crypto innovation! 🌍
 
-#LOTTAUS #Crypto #Blockchain #Invest #Altcoin #DigitalAssets #CryptoCommunity
+#LOTTAGHETER #Crypto #Blockchain #Defi #Invest #Altcoin #DigitalAssets #CryptoCommunity 
 
 ---
 
