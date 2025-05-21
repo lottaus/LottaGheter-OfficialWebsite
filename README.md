@@ -37,7 +37,7 @@ This website provides important details about the **LOTTAGHETER Token** launch, 
 
 Get in before the hype hits! Secure your position early and ride the $LOTTAUS wave 🚀
 
-- **Buy Now** on [Four.Meme](https://four.meme/token/0xed37f9211fb98a514ed1b7272760d8cede180f28?code=HEMK9JC97H86)
+- **Buy Now** on [Four.Meme](https://four.meme/token/0xf7ec0d107c9670826c1d8beafeb105d14e704444?code=HEMK9JC97H86)
 
 ---
 
@@ -59,7 +59,7 @@ The **LOTTAGHETER (LOTTA)** token is your opportunity to dive into a growing, in
 - **Strong Liquidity**: With a virtual liquidity of $31.49K, LOTTA ensures secure and smooth trading.
 - **Huge Potential**: A rapidly developing token with a bright future ahead!
 
-🔗 **Get in Now**: [Explore LOTTAGHETER](https://four.meme/token/0xed37f9211fb98a514ed1b7272760d8cede180f28?code=HEMK9JC97H86)
+🔗 **Get in Now**: [Explore LOTTAGHETER](https://four.meme/token/0xf7ec0d107c9670826c1d8beafeb105d14e704444?code=HEMK9JC97H86)
 
 Join the **LOTTAGHETER** community today and take part in the next wave of crypto innovation! 🌍
 
