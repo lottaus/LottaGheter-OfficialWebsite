@@ -13,7 +13,7 @@ This website provides important details about the **LOTTAGHETER Token** launch, 
 - **Market Cap**: $5.02K
 - **Liquidity**: $10.78K
 - **Token Price**: 0.00000000765 BNB
-- **Raised**: 38 BNB
+- **Raised**: 24 BNB
 - **Volume**: $421.18
 - **Available Supply**: 800M
 
